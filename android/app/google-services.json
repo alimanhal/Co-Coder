@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459834240387",
+    "project_id": "co-corder",
+    "storage_bucket": "co-corder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459834240387:android:24c39b9dd19e5776d51ab6",
+        "android_client_info": {
+          "package_name": "com.example.cocorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459834240387-mh1mp4ahb3bei004v096r6i5lsf6lj1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5kYkuYnWP5Bey1dGaLTdR1zMB0uYdHVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459834240387-mh1mp4ahb3bei004v096r6i5lsf6lj1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
